@@ -10,19 +10,13 @@
       "id": 3,
       "text": "MkkkkkkkkkkkkkkkkkSchool",
       "day": "May 6th at 3:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 5,
       "text": "Mehhhhhhhhhhhhhhhh at School",
       "day": "May 6th at 3:30pm",
       "reminder": false
-    },
-    {
-      "text": "tasking",
-      "day": "000",
-      "reminder": false,
-      "id": 6
     }
   ]
 }
